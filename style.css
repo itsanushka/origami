@@ -1,0 +1,22 @@
+h1{
+    color: pink;
+    margin-left: 70%;
+   
+}
+
+
+
+body{
+    background-image: linear-gradient(to right,lightblue,pink);
+}
+
+a:visited{color: linear-gradient(to right, lightblue, pink ); }
+
+.header{
+    background-color: black;
+    
+    padding-right: 45%;
+
+    size:20% ;
+}
+
